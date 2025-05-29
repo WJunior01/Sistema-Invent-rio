@@ -1,0 +1,2 @@
+-- SQL Script incluído anteriormente (tabelas, índices, inserts)
+-- (Não duplicado aqui por limitação de espaço)
